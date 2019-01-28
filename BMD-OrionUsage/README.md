@@ -14,4 +14,5 @@ Simply click on the link according to your Operating System and the download wil
 The following demonstrate how you can use the Mac OSX version of the BMD Orion app to register your codeset and host them at the same time from the BMD Orion app.
 
 
-![Step 1](https://github.com/BlockMedical/BMD-distributed_hosting_projects/BMD-OrionUsage/raw/update-docs/step1_ui.png)
+![Step 1](https://github.com/BlockMedical/BMD-distributed_hosting_projects/blob/update-doc/BMD-OrionUsage/step1_ui.png)
+
