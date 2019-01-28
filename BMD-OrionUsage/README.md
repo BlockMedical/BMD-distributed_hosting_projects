@@ -18,6 +18,7 @@ The following example demonstrates how you can use the Mac OSX version of the BM
 ![Step 0](https://github.com/BlockMedical/BMD-distributed_hosting_projects/blob/update-doc/BMD-OrionUsage/step0_ui.png)
 
 2. You should see the following screen shows up. This presents the basic UI of the BMD Orion App and there are 2 default files listed which is provided by default from the IPFS. Now, there is one IPFS running on your desktop while BMD Orion App is running.
+
 ![Step 1](https://github.com/BlockMedical/BMD-distributed_hosting_projects/blob/update-doc/BMD-OrionUsage/step1_ui.png)
 
 3. Now, click on the **+** on the top left menu bar to select a file to upload. Here, we are going to add all of the BMD Orion App binary from the above as an example to upload all of them to our local IPFS that is running on your desktop at the moment. We host and register our own BMD Orion App the same way as you can host your file as well. 
