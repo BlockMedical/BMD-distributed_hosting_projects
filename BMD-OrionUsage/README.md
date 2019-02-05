@@ -44,3 +44,6 @@ Now, you should see all 5 files added to your local IPFS and highlighted at the 
 ![Step 7](https://github.com/BlockMedical/BMD-distributed_hosting_projects/blob/master/BMD-OrionUsage/step7_ui.png)
 
 Now, your are ready. Whenever an user access your code set, the rewards will be forwarded to your wallet.
+
+## Importing Large Files?
+If you want to download large files after accessing them, the best practice is not to use the browser to download them since browsers are not designed to download large objects and directories at once. In order to do so, you will want to use the **Menu Bar** => **File** => **Import from hash**. For a real example, you can take a look over [here](https://github.com/BlockMedical/BMD-deep_learning_projects#training-data-and-applying-machine-learning-and-ai-algorithms).
