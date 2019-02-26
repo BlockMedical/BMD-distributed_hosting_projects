@@ -4,11 +4,7 @@
 If you don't want to build them from source, you can download our pre-built versions with the following IPFS Hashes in the URLs. We are hosting them for you to download from the same BMD Orion app. You have an option to go through our Web app site to access and download them as an example (which will require BMD Utility tokens to access), or simply just download them directly from here. The Web app site is jsut an eaxmple how you can host and serve your own codesets via the BMD Orion app.
 Simply click on the link according to your Operating System and the download will proceed.
 
-* [Mac OSX](https://cloudflare-ipfs.com/ipfs/QmdAMfshgvVyVLpncC79SSgf3Tig8kvoweX5X2oGcoyd9d)
-* [Windows](https://cloudflare-ipfs.com/ipfs/QmYFh3dZ36Ux7MqghDV83zoQGNFbf9MLH2m9M1vnG8fQif)
-* [Linux RPM](https://cloudflare-ipfs.com/ipfs/Qma7j7XXUvbNbh598fA6d77K1tKzFr2eJWqa7wT22MwY7f)
-* [Linux Debian](https://cloudflare-ipfs.com/ipfs/QmXch37yUpzKK4ebPPvhTowgJeKt1DsZtmMfaSk9Nrpise)
-* [Linux Debian Snap](https://cloudflare-ipfs.com/ipfs/QmVoRZTrxLWc9gXWX2AR8tEh1ZeM3nLbXMjLc4ggF7Ms4e) 
+* [Mac OSX](https://cloudflare-ipfs.com/ipfs/QmXkhuQ3U3QsYo9nDVBHwZUvG35cv6Ytnn35P4bLxF7E2u/Orion-BlockMed-0.9.1.dmg)
 
 ## How to Use it
 The following example demonstrates how you can use the Mac OSX version of the BMD Orion app to register your codeset and host them at the same time from the BMD Orion app.
@@ -39,7 +35,7 @@ Now, you should see all 5 files added to your local IPFS and highlighted at the 
 
 ![Step 6](https://github.com/BlockMedical/BMD-distributed_hosting_projects/blob/master/BMD-OrionUsage/step6_ui.png)
 
-6. Once you register, and confirm in Metamask, you will see your file listed under the https://ipfs.blcksync.info/file-access page.
+6. Once you register, and confirm in Metamask, you will see your file listed under the https://ipfs.blockmed.me/file-access page.
 
 ![Step 7](https://github.com/BlockMedical/BMD-distributed_hosting_projects/blob/master/BMD-OrionUsage/step7_ui.png)
 
